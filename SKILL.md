@@ -1,3 +1,9 @@
+---
+name: ddc-announcements
+description: >
+  Use as-is. Do not add fake metrics or “funded by.” DDC is a framework and planning harness, not a priced round. **The Delali Development Cycle (DDC)** Most AI “website builders” skip the map and paint the storefront. Use this skill when working with ddc announcements tasks or workflows.
+---
+
 # Delali Development Cycle — announcements
 
 Use as-is. Do not add fake metrics or “funded by.” DDC is a framework and planning harness, not a priced round.
